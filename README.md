@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of teddan/search-pickers.** Not for installation: use [Packagist](https://packagist.org/packages/teddan/search-pickers) or the [upstream repository](https://github.com/tttteddan/flarum-search-pickers).
 
-**0** versions archived · Latest: [`v0.1.1`](https://github.com/flarchive/teddan-search-pickers/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^2.0`
+**2** versions archived · Latest: [`v0.1.1`](https://github.com/flarchive/teddan-search-pickers/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2026-09-05 | `^2.0` | [Browse](https://github.com/flarchive/teddan-search-pickers/tree/archive/v0.1.0) |
+| `v0.1.1` | 2026-09-06 | `^2.0` | [Browse](https://github.com/flarchive/teddan-search-pickers/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/teddan-search-pickers.json](https://github.com/flarchive/archive-index/blob/main/packages/teddan-search-pickers.json)
 
